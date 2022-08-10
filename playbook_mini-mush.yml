@@ -1,5 +1,5 @@
  - name: Alta nuevo server
- #  hosts: misservers
+   hosts: localhost
  #  remote_user: ansibleuser
  #  become: true   
 
